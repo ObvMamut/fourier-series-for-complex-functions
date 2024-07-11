@@ -309,7 +309,7 @@ fn main() -> GameResult {
 
     let n = get_n();
 
-    let (ctx, events_loop) = ggez::ContextBuilder::new("Fourier Series", "Julian Woroszylski")
+    let (ctx, events_loop) = ggez::ContextBuilder::new("Fourier Series", "ObvMamut")
         .window_setup(ggez::conf::WindowSetup::default().title("Fourier Series"))
         .window_mode(ggez::conf::WindowMode::default().dimensions(data::SCREEN_SIZE.0, data::SCREEN_SIZE.1))
         .build()?;
