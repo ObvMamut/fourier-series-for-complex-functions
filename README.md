@@ -32,10 +32,9 @@ Example :
 if $n = 10$
 
 The $C_n$'s would be :
+
 $$
-
 C_{-10} = \int_0^1{f(t)}
-
 $$
 
 
@@ -50,9 +49,6 @@ C_{-10} = \int_0^1{f(t)}
 $$
 
 
-
-$$
-
 So when calculating the exact position of a vector tip when t goes from 0 to 1 :
 
 $$
@@ -66,7 +62,6 @@ $$
 
 $$
 V_{10} = \int_0 ^1 f(t)\times e^{-10\times 2\pi i t}
-
 $$
 
 (for more info watch this [video](https://www.youtube.com/watch?v=r6sGWTCMz2k) by 3b1b)
