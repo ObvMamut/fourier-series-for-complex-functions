@@ -36,21 +36,21 @@ $$
 
 C_{-10} = \int_0^1{f(t)}
 
-\\
+$$
 
 ...
 
 \\
-
+$$
 C_0 = \int_0^1f(t)
-
+$$
 \\
 
 ...
 \\
-
+$$
 C_{-10} = \int_0^1{f(t)}
-
+$$
 
 
 
@@ -59,23 +59,22 @@ $$
 So when calculating the exact position of a vector tip when t goes from 0 to 1 :
 
 $$
-\begin{align*}
 V_{-10} = \int_0 ^1 f(t)\times e^{10\times 2\pi i t}
-
+$$
 \\
 ...
 \\
+$$
 
 V_{0} = \int _0 ^1 f(t)
-
+$$
 \\
 
 ...
 \\
-
+$$
 V_{10} = \int_0 ^1 f(t)\times e^{-10\times 2\pi i t}
 
-\end{align*}
 $$
 
 (for more info watch this [video](https://www.youtube.com/watch?v=r6sGWTCMz2k) by 3b1b)
