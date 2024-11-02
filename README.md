@@ -33,7 +33,6 @@ if $n = 10$
 
 The $C_n$'s would be :
 $$
-\begin{align*}
 
 C_{-10} = \int_0^1{f(t)}
 
@@ -55,7 +54,6 @@ C_{-10} = \int_0^1{f(t)}
 
 
 
-\end{align*}
 $$
 
 So when calculating the exact position of a vector tip when t goes from 0 to 1 :
